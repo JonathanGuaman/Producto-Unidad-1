@@ -38,6 +38,6 @@
 - Por lo tento, estos metodos son muy eficientes, en la practica el resultado que nos proporciona es muy similar al obtenido por mallas o nodos, ayudnado a la simnplificacion de medicion de este.
 
 
-### 5.-RECOMENDACIONES:
+### 5.- BIBLIOGRAFIA:
 
 -  Floyd, T.L (2007). Principios de circuitos electricos (Octava edicion)
