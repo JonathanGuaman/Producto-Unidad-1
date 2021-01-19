@@ -32,6 +32,11 @@
 
 ### 3.-DESARROLLO:
 
+![](https://github.com/JonathanGuaman/Producto-Unidad-1/blob/main/Desarrollo/Articulo_page-0003.jpg)
+
+![](https://github.com/JonathanGuaman/Producto-Unidad-1/blob/main/Desarrollo/Articulo_page-0004.jpg)
+
+![](https://github.com/JonathanGuaman/Producto-Unidad-1/blob/main/Desarrollo/Articulo_page-0005.jpg)
 
 
 
