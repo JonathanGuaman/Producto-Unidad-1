@@ -21,8 +21,18 @@
 ### 2.- MARCO TEORICO:
 
 
+![](https://github.com/JonathanGuaman/Producto-Unidad-1/blob/main/Marco%20Teorico/Marco%20Teorico%202.png)
+
+
+![](https://github.com/JonathanGuaman/Producto-Unidad-1/blob/main/Marco%20Teorico/Marco%20Teorico%201.png)
+
+
+
+
 
 ### 3.-DESARROLLO:
+
+
 
 
 
